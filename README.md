@@ -69,7 +69,7 @@ Enter your choice:
 
 ## 👨‍💻 Usage Guide
 
-# Admin
+### Admin
 
 Select 1. Admin Login
 
@@ -77,7 +77,7 @@ Enter the default password: admin
 
 Manage the map: add/delete places, roads, traffic, amenities.
 
-# User
+### User
 
 Select 2. User Login
 
