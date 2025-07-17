@@ -59,7 +59,8 @@ You'll see:
 
 Welcome to GPS Navigation System
 
-Main Menu:
+# Main Menu:
+
 1. Admin Login
 2. User Login
 3. Exit
@@ -67,17 +68,20 @@ Enter your choice:
 
 
 ## 👨‍💻 Usage Guide
-Admin
+
+# Admin
+
 Select 1. Admin Login
 
 Enter the default password: admin
 
 Manage the map: add/delete places, roads, traffic, amenities.
 
-User
+# User
+
 Select 2. User Login
 
-Explore:
+# Explore:
 
 View full map
 
@@ -87,7 +91,8 @@ Discover amenities along the route
 
 Get travel time estimates
 
-🔬 Technical Details
+## 🔬 Technical Details
+
 Core Algorithm: Dijkstra’s shortest path
 
 Time complexity: O((V + E) log V)
@@ -98,6 +103,7 @@ Data Persistence: All states saved via pickle in graph_state.pkl
 
 Visualization: Matplotlib-based rendering of map and routes
 
+
 ## 🤝 Contributing
 We welcome contributions! Please follow these steps:
 
@@ -105,9 +111,6 @@ Fork the repo
 
 Create a branch:
 
-bash
-Copy
-Edit
 git checkout -b feature/YourFeature
 Make commits with clear messages
 
