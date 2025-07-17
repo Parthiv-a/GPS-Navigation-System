@@ -48,8 +48,8 @@ source venv/bin/activate
 venv\Scripts\activate
 pip install -r requirements.txt
 ```
-
-##▶️ Running the Application
+---
+▶️ Running the Application
 ```bash
 
 python gps_navigation.py
