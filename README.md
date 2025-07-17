@@ -49,7 +49,7 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ---
-▶️ Running the Application
+## ▶️ Running the Application
 ```bash
 
 python gps_navigation.py
@@ -64,7 +64,9 @@ Main Menu:
 2. User Login
 3. Exit
 Enter your choice:
-👨‍💻 Usage Guide
+
+
+## 👨‍💻 Usage Guide
 Admin
 Select 1. Admin Login
 
@@ -96,7 +98,7 @@ Data Persistence: All states saved via pickle in graph_state.pkl
 
 Visualization: Matplotlib-based rendering of map and routes
 
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions! Please follow these steps:
 
 Fork the repo
@@ -111,5 +113,5 @@ Make commits with clear messages
 
 Push your branch and open a Pull Request
 
-📜 License
+## 📜 License
 This project is under the MIT License. See LICENSE for details.
