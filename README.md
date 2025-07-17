@@ -47,16 +47,16 @@ source venv/bin/activate
 # Windows
 venv\Scripts\activate
 pip install -r requirements.txt
-▶️ Running the Application
-bash
-Copy
-Edit
-python gps_navigation.py
-You'll see:
+```
 
-css
-Copy
-Edit
+##▶️ Running the Application
+```bash
+
+python gps_navigation.py
+```
+#You'll see:
+
+
 Welcome to GPS Navigation System
 
 Main Menu:
