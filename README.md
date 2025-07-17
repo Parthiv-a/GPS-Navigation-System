@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 python gps_navigation.py
 ```
-#You'll see:
+You'll see:
 
 
 Welcome to GPS Navigation System
